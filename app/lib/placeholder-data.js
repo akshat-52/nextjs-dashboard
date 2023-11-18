@@ -3,8 +3,8 @@
 const users = [
   {
     id: '410544b2-4001-4271-9855-fec4b6a6442a',
-    name: 'User',
-    email: 'user@nextmail.com',
+    name: 'Akshat',
+    email: 'aksh@gmail.com',
     password: '123456',
   },
 ];
@@ -15,6 +15,24 @@ const customers = [
     name: 'Delba de Oliveira',
     email: 'delba@oliveira.com',
     image_url: '/customers/delba-de-oliveira.png',
+  },
+  {
+    id: '3958dc9e-712f-4377-85e6-fec4b6a6442a',
+    name: 'Akshat Kumar',
+    email: 'akshat@gmail.com',
+    image_url: '/customers/aksh.png',
+  },
+  {
+    id: '3958dc9e-712f-4377-85e7-fec4b6a6442a',
+    name: 'Anngela Roy',
+    email: 'anngela@gmail.com',
+    image_url: '/customers/anngela.png',
+  },
+  {
+    id: '3958dc9e-712f-4377-85e8-fec4b6a6442a',
+    name: 'Yuvraj Saini',
+    email: 'yuvi@gmail.com',
+    image_url: '/customers/yuvi.png',
   },
   {
     id: '3958dc9e-742f-4377-85e9-fec4b6a6442a',
